@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "996743641403",
+    "project_id": "sololife-1d12f",
+    "storage_bucket": "sololife-1d12f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996743641403:android:2133d690e5a49628cb1f1e",
+        "android_client_info": {
+          "package_name": "com.example.diet_memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996743641403-24atqhis9dvfei1na1jj4pvidcccq9io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALONue7GRRrHlXpLwwHM1di-eiWldrXNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996743641403-24atqhis9dvfei1na1jj4pvidcccq9io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996743641403:android:d5385a4f35af34cccb1f1e",
+        "android_client_info": {
+          "package_name": "com.example.mysololife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996743641403-24atqhis9dvfei1na1jj4pvidcccq9io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALONue7GRRrHlXpLwwHM1di-eiWldrXNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996743641403-24atqhis9dvfei1na1jj4pvidcccq9io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820690423360",
+    "firebase_url": "https://kotlinlogin-44f2d-default-rtdb.firebaseio.com",
+    "project_id": "kotlinlogin-44f2d",
+    "storage_bucket": "kotlinlogin-44f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820690423360:android:cd0ee9ce9c6ee1b76299a5",
+        "android_client_info": {
+          "package_name": "com.example.mango_contents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820690423360-d19ienu90jn650pmlbpmtb05vg51bkij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSF14TZKdRbne72gQ3hTRud8_-gGWSVKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820690423360-d19ienu90jn650pmlbpmtb05vg51bkij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
